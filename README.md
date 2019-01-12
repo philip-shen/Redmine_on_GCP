@@ -18,7 +18,7 @@ I would like to thanks below blogers contributions:
 
 * Kenmingの鮮思維 
 [HowTo-安裝 Redmine 2.3.2＠EC2-Ubuntu 12.04](http://www.kenming.idv.tw/howto-install_redmine_232_at_ec2_ubuntu_1204/)
-HowTo-Redmine 整合 Git/GitHub](https://www.kenming.idv.tw/howto_redmine_integrate_git_and_github/)
+[HowTo-Redmine 整合 Git/GitHub](https://www.kenming.idv.tw/howto_redmine_integrate_git_and_github/)
 [[備註] 安裝 RVM and Ruby@Ubuntu 13.04 x64](http://www.kenming.idv.tw/note_install_rvm-and-ruby_at-ubuntu-13-04-x64/)
 
 *  コピペワールド hirooka.pro 
