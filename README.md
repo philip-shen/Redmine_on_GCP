@@ -1,5 +1,5 @@
 ## Redmine_on_GCP
-Installing Readmine (http://www.redmine.org/) that integrated with Git/GitHub  hosts on Google Cloud Platform (GCP)
+Installing Readmine (http://www.redmine.org/) hosts on Google Cloud Platform (GCP)
 
 ## Acknowledgments
 I would like to thanks below blogers contributions:
