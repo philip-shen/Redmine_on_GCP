@@ -1,6 +1,29 @@
 ## Redmine_on_GCP
 Installing Readmine (http://www.redmine.org/) that integrated with Git/GitHub  hosts on Google Cloud Platform (GCP)
 
+## Acknowledgments
+I would like to thanks below blogers contributions:
+
+* Complete Think - Thinking, Coding, and Learning.
+[Redmine](https://rickhw.github.io/categories/Redmine/)
+
+* iInfo 資訊交流
+[Ubuntu安裝Redmine(1) --- 前置準備作業](http://white5168.blogspot.com/2015/11/ubunturedmine-1.html#.XDf7381-WUk)
+[Ubuntu安裝Redmine(2) --- Ruby + Rails安裝](http://white5168.blogspot.com/2015/11/ubunturedmine-2-ruby-rails.html#.XDf9Fc1-XV8)
+[Ubuntu安裝Redmine(3) --- Apache2 + MySQL + PHP安裝](http://white5168.blogspot.com/2015/11/ubuntu-ruby-rails-apache2-mysql-redmine.html#.XDf-Rc1-XV8)
+[Ubuntu安裝Redmine(4) --- Passenger安裝、Rails與Apache2整合佈署設定](http://white5168.blogspot.com/2015/11/ubuntu-ruby-rails-apache2-mysql-ssl_15.html#.XDf_Qs1-XV8)
+[Ubuntu安裝Redmine(5) --- OpenSSL啟用](http://white5168.blogspot.com/2015/11/ubuntu-ruby-rails-apache2-mysql-ssl.html#.XDf_uc1-XV8)
+[Ubuntu安裝Redmine(6) --- Redmine安裝](http://white5168.blogspot.com/2015/11/ubuntu-ruby-rails-apache2-mysql-ssl_18.html#.XDgAp81-XV8)
+[Ubuntu安裝Redmine(7) --- Plugin安裝](http://white5168.blogspot.com/2015/11/ubunturedmine7-plugin.html#.XDgBKs1-XV8)
+
+* Kenmingの鮮思維 
+[HowTo-安裝 Redmine 2.3.2＠EC2-Ubuntu 12.04](http://www.kenming.idv.tw/howto-install_redmine_232_at_ec2_ubuntu_1204/)
+HowTo-Redmine 整合 Git/GitHub](https://www.kenming.idv.tw/howto_redmine_integrate_git_and_github/)
+[[備註] 安裝 RVM and Ruby@Ubuntu 13.04 x64](http://www.kenming.idv.tw/note_install_rvm-and-ruby_at-ubuntu-13-04-x64/)
+
+*  コピペワールド hirooka.pro 
+[Redmine 2.3.0 on Ubuntu 12.04](https://hirooka.pro/?p=1139)
+
 ## Installation
 * Step 1 
 Install and Configure LAMP
@@ -207,7 +230,7 @@ $ sudo /etc/init.d/apache2 restart
 ```
 Open browser https://public-ip/iinfo
 ![alt tag](https://i.imgur.com/wU750gx.jpg)
-![alt tag](https://i.imgur.com/H0SpF0p.jpg)
+![alt tag](https://i.imgur.com/dO4Bi0d.jpg)
 
 Modify Apache2 configuration file for Redmine
 ```
