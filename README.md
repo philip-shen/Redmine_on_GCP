@@ -173,7 +173,7 @@ $ sudo ln -s /etc/apache2/mods-available/passenger.load
 ```
 
 * Step 6 
-☆☆☆Virutal Host of Apache2 Configuration☆☆☆
+★★★Virutal Host of Apache2 Configuration★★★
 ```
 $ cd /var/www/
 $ rails new testrails
@@ -193,7 +193,7 @@ http://public-ip/iinfo
 ![alt tag](https://i.imgur.com/Vx0XDhX.jpg)
 
 * Step 7
-☆☆☆OpenSSL Configuration for Apache2☆☆☆
+★★★OpenSSL Configuration for Apache2★★★
 
 OpenSSL Installation
 ```
