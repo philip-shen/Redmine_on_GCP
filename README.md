@@ -110,7 +110,7 @@ production:
 
 Redmine realted gem dependencies
 ```
-$ gem install bundler
+$ gem install bundler -v 1.16.6 ★★★★★★
 $ cd /usr/local/redmine
 :/usr/local/redmine$ bundle install --without development test postgresql sqlite
 ```
@@ -283,6 +283,14 @@ Solution:
 [Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes. (ExecJS::RuntimeUnavailable)](https://stackoverflow.com/questions/8059332/could-not-find-a-javascript-runtime-see-https-github-com-sstephenson-execjs-f)
 ```
 sudo apt-get install nodejs
+```
+
+* Bundler version Error msg
+![alt tag](https://i.imgur.com/fHbzyxx.jpg)
+
+Solution:
+```
+$ gem install bundler -v 1.16.6
 ```
 
 ## Environment Configuration
